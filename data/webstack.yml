@@ -1,6 +1,6 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 资源推荐
   icon: fa-star
   links: 
     - title: Dribbble
@@ -47,7 +47,7 @@
       description: 全球最大的UI学习分享平台
     
 
-- taxonomy: 社区咨询
+- taxonomy: 微信群
   icon: fa-regular fa-newspaper
   links: 
     - title: 雷锋网
@@ -86,7 +86,7 @@
       logo: images/logos/iyunying.png
       url: http://www.iyunying.org/
       description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
+    - title: 徐哥笔记
       logo: images/logos/niaogebiji.png
       url: http://www.niaogebiji.com/
       description: 移动互联网第一干货平台
@@ -120,7 +120,7 @@
         - title: 利器
           logo: images/logos/liqi.png
           url: https://liqi.io/
-          description: 创造者和他们的工具
+          description: 自媒体工具
         - title: Today
           logo: images/logos/today.png
           url: http://today.itjuzi.com/

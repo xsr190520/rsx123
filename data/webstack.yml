@@ -100,7 +100,7 @@
       description: UI设计师学习交流社区
     
 
-- taxonomy:视频分享
+- taxonomy:工具
   icon: fa-regular fa-lightbulb
   list: 
     - term: 发现产品
@@ -286,7 +286,7 @@
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly
 
-    - term: 动漫素材
+    - term: 影视素材
       links:
         - title: freepik
           logo: images/logos/freepik.png
@@ -341,7 +341,7 @@
           url: http://www.sccnn.com/
           description: 免费素材共享平台
       
-    - term: 音乐素材
+    - term: 音乐资源
       links:
         - title: Freebiesbug
           logo: images/logos/freebiesbug.png

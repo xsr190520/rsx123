@@ -267,7 +267,7 @@
           url: http://simplelineicons.com/
           description: Simple line Icons pack
       
-    - term:风景素材
+    - term:风景资源
       links:
         - title: Iconsfeed
           logo: images/logos/iconsfeed.png
@@ -286,7 +286,7 @@
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly
 
-    - term: 影视素材
+    - term: 影视资源
       links:
         - title: freepik
           logo: images/logos/freepik.png
@@ -384,7 +384,7 @@
           url: http://principlerepo.com/
           description: Free, High Quality Principle Resources
       
-    - term: 影视资源
+    - term: 其他资源
       links:
         - title: Sketch
           url: https://sketchapp.com/
